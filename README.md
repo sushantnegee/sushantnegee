@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Kyndryl as a Full Stack Developer</i>
+    <i>- Currently Learning Full Stack Web Development (MASAI School)</i>
 </h3>
 <br>
 
